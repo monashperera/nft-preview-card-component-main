@@ -34,7 +34,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [monash-nft-preview-card](https://monash-nft-preview-card.netlify.app/)
 
 ## My process
 
