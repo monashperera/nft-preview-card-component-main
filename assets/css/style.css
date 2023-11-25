@@ -1,5 +1,25 @@
 
-/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap'); */
+@font-face {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/Outfit-Light.woff2') format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Outfit-Regular.woff2') format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/Outfit-SemiBold.woff2') format('woff2');
+    font-display: swap;
+}
 
 *, *::before, *::after {
     box-sizing: border-box;
@@ -21,7 +41,7 @@
 
     --link-purple: hsl(228, 45%, 44%);
 
-    --fw-200: 200;
+    --fw-300: 300;
     --fw-400: 400;
     --fw-600: 600;
 }
@@ -80,7 +100,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .fw-light {
-    font-weight: var(--fw-200);
+    font-weight: var(--fw-300);
 }
 
 .fw-regular {
@@ -157,7 +177,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .nft-card-description p {
     font-size: 18px;
-    font-weight: var(--fw-200);
+    font-weight: var(--fw-300);
 }
 
 .nft-card-description .container-fluid {
@@ -205,7 +225,7 @@ p, h1, h2, h3, h4, h5, h6 {
     }
     .nft-card-description p {
         font-size: 16px;
-        font-weight: var(--fw-200);
+        font-weight: var(--fw-300);
     }
     
 }

@@ -26,11 +26,11 @@ Users should be able to:
 
 Desktop Preview
 
-![Solution preview for the QR code component Desktop](./assets/screenshot/desktop.jpeg)
+![Solution Desktop preview for the NFT preview card component](./assets/screenshot/desktop.jpeg)
 
 Mobile Preview
 
-![Solution preview for the QR code component coding challenge](./assets/screenshot/mobile.jpeg)
+![Solution Mobile preview for the NFT preview card component](./assets/screenshot/mobile.jpeg)
 
 ### Links
 
